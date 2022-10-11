@@ -14,8 +14,8 @@
     <link rel="stylesheet" type="text/css" href="./asset/css/plugins/simple-line-icons.css" />
     <link rel="stylesheet" type="text/css" href="./asset/css/plugins/animate.min.css" />
     <link rel="stylesheet" type="text/css" href="./asset/css/plugins/fullcalendar.min.css" />
-    <link href="./style.css" rel="stylesheet">
-    <link href="./index.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <link href="./css/index.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css" integrity="sha384-X8QTME3FCg1DLb58++lPvsjbQoCT9bp3MsUU3grbIny/3ZwUJkRNO8NPW6zqzuW9" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./cult.jpeg" class="brand-logo">
-                    <img src="./cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./imagens/cult.jpeg" class="brand-logo">
+                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -148,7 +148,7 @@ Sendo a principal em homens e a segunda em mulheres.
   •	Não fumar; <br>
 •	Evitar o tabagismo passivo.
   </p><br><br>
-  <img src="./foto-eventos.png" style="width:600px; height:300px;" alt="">
+  <img src="./imagens/foto-eventos.png" style="width:600px; height:300px;" alt="">
 <br><br>
 <h4 class="titulo-eventos6" style="font-size:XX-LARGE; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">DIA DO FOLCLORE</h4>
   <p class="paragrafo-eventos6">
@@ -168,9 +168,9 @@ No Dia do Folclore, costuma-se relembrar os elementos mais importante da cultura
   </p>
   <h4 class="titulo-eventos8" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Figuras do Nosso Folclore</h4>
   <p class="paragrafo-eventos8">Entre os personagens, estão inseridas as lendas tradicionais de nosso país. As principais lendas são a do saci e do curupira, mas outros personagens importantes do nosso folclore são: a Iara, o boto cor-de-rosa, a mula sem cabeça, o boitatá, o negrinho do pastoreio, entre outros. </p>
-  <img src="./foto-eventos2.png" style="width:600px; height:300px;" alt="">
+  <img src="./imagens/foto-eventos2.png" style="width:600px; height:300px;" alt="">
   <br><br><br>
-  <img src="./foto-eventos3.png" style="width:600px; height:300px;" alt="">
+  <img src="./imagens/foto-eventos3.png" style="width:600px; height:300px;" alt="">
   <br><br><br>
   <h4 class="titulo-eventos8" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Dia Nacional das Artes</h4>
   <p class="paragrafo-eventos8"> A apresentação do Dia Nacional das Artes foi apresentada pela Ana Paula e pela Rayssa.
@@ -189,15 +189,15 @@ Fora reforça a importância do reconhecimento de tais atividades culturais como
     <strong style="font-size:20px ;">BECO DO BATMAN - VILA MADALENA</strong>
 </p>
 <br><br>
-<img src="./foto-eventos4.png" style="width:600px; height:300px;" alt="">
+<img src="./imagens/foto-eventos4.png" style="width:600px; height:300px;" alt="">
 <br><br>
 <strong style="font-size:20px;">MUSEU DE ARTE DE SÃO PAULO - MASP - AVENIDA PAULISTA</strong>
 <br><br>
-<img src="./foto-eventos5.png" style="width:600px; height:300px;" alt="">
+<img src="./imagens/foto-eventos5.png" style="width:600px; height:300px;" alt="">
 <br><br>
-<img src="./eventos6.png" style="width:600px; height:300px;" alt="">
+<img src="./imagens/eventos6.png" style="width:600px; height:300px;" alt="">
 <br><br>
-<img src="./eventos7.png" style="width:600px; height:300px;" alt="">
+<img src="./imagens/eventos7.png" style="width:600px; height:300px;" alt="">
 <h4 class="titulo-eventos11" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;padding:20px;">Educação Financeira
 <br><br>Canal Me Poupe!
 </h4>
@@ -223,12 +223,14 @@ Existe uma lei que autoriza que lojas apliquem descontos dependendo do meio de p
 Não clique em links suspeitos, não acredite em promoções bombásticas, nem em promessas de ganhos fáceis. Tem muito golpista por aí querendo tirar o seu dinheiro, então fique alerta! 
 Uma dica é sempre acessar o site pela página oficial – não clique no link que recebeu, digite diretamente o nome da loja no seu navegador e acesse o site oficial para validar.
 </p>
-<img src="./foto-eventos6.png" style="width:600px; height:300px;" alt="">
+<img src="./imagens/foto-eventos6.png" style="width:600px; height:300px;" alt="">
 <br><br><br>
-<img src="./foto-eventos7.png" style="width:600px; height:300px;" alt="">
-<br><br><br>
-<img src="./foto-eventos8.png" style="width:600px; height:300px;" alt="">
-</div>
+<img src="./imagens/foto-eventos7.png" style="width:600px; height:300px;" alt="">
+<br><br><br><br><br>
+<img src="./imagens/foto-eventos8.png" style="width:600px; height:300px;" alt=""> 
+<h4 class="titulo-eventos14"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Setembro Amarelo</h4>
+<p class="paragrafo-eventos14"></p>
+</div> 
 </div>
 </body>
 <script>
