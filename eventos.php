@@ -242,7 +242,7 @@ Quando a apresentação acabou algumas pessoas contaram sobre situações que j�
 Setembro Amarelo é a campanha de prevenção ao suicídio da ABP (Associação Brasileira de Psiquiatria).
 Sendo dia 10 o Dia Mundial de Prevenção ao Suicídio. <br> <br>
 
-<strong>Como Surgiu?</strong> <br> <br>" style= "padding:20px;"
+<strong>Como Surgiu?</strong> <br> <br>
 
 O Setembro Amarelo começou nos EUA, quando o jovem Mike Emme, de 17 anos, cometeu suicídio, em 1994. Mike era um rapaz muito habilidoso e restaurou um automóvel Mustang 68, pintando-o de amarelo. Por conta disso, ficou conhecido como "Mustang Mike". <br> <br>
 
