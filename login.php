@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<link rel="shortcut icon" href="./imagens/cult.jpeg" type="image/x-icon">
+<link rel="shortcut icon" href="./cult.jpeg" type="image/x-icon">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,7 +37,7 @@
 </div>
  <div class="container_outer_img">
  <div class="img-inner">
- <img src='./imagens/cult.jpeg'  alt="" class="container_img"/>
+ <img src='./cult.jpeg'  alt="" class="container_img"/>
        </div>
      </div>
   </div>
