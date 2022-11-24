@@ -39,8 +39,8 @@
 
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./img/cult.jpeg" class="brand-logo">
-                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./imagens/cult.jpeg" class="brand-logo">
+                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -49,7 +49,7 @@
                     <i class="bi bi-bank"></i>
                     PÁGINA INICIAL
                 </a>
-                <a href="./tecinformacao.php" class="dashboard-nav-item " style="color:black">
+                <a href="#" class="dashboard-nav-item " style="color:black">
                 <!-- <i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i> -->
                 <i class="bi bi-pc-display-horizontal"></i>
                 TEC INFORMAÇÃO
@@ -74,7 +74,7 @@
                 <i class="bi bi-stars"></i>
                     EVENTOS
                 </a>
-                    <a href="sobre.php" class="dashboard-nav-item " style="color:black">
+                    <a href="#" class="dashboard-nav-item " style="color:black">
                     <!-- <i class="fa-solid fa-triangle-exclamation fa-fade"></i> -->
                     <i class="bi bi-journals"></i>   
                     SOBRE
@@ -93,23 +93,23 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="nav navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="./index.php">Página Inicial</a>
+                            <a class="nav-link " href="#">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./tecinformacao.php">Tec Informação</a>
+                            <a class="nav-link" href="">Tec Informação</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./marketing.php">Marketing</a>
+                            <a class="nav-link" href="">Marketing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./recursoshumanos.php">Rec Humanos</a>
+                            <a class="nav-link" href="">Rec Humanos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./administracao.php">Admin</a>
+                            <a class="nav-link" href="">Admin</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./eventos.php">Eventos</a>
+                            <a class="nav-link" href="">Eventos</a>
                         </li>
                     </ul>
                 </div>
@@ -117,16 +117,21 @@
         </nav>
         <div class="container">
             <h1 class="titulo-adm" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Comunicação Empresarial</h1>
-            <p class="paragrafo-adm">Em nossa primeira apresentação do projeto Gestores do Futuro, escolhemos o tema "Comunicação Empresarial" que é um tema de grande importância.
+            <p class="paragrafo-adm" style= "padding:20px;">Em nossa primeira apresentação do projeto Gestores do Futuro, escolhemos o tema "Comunicação Empresarial" que é um tema de grande importância.
   Tendo em mente o que é a comunicação empresarial e sendo compartilhadas algumas formas de melhorar a comunicação interna, melhores resultados serão obtidos em nossa empresa.
   Em forma de dinâmica, fizemos a brincadeira "Quem sou eu?" com toda a turma, desta forma, gerando oportunidade de comunicação.</p>
 <h1 class="titulo-adm1" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;padding:20px;">Inclusão no mercado de trabalho</h1>
-<p class="paragrafo-adm1">Em nossa segunda apresentação do projeto Gestores do Futuro, escolhemos o tema "Inclusão no mercado de trabalho ", a inclusão é de suma importância, pois contribui muito com a tolerância e com novas ideias e pontos de vista.
+<p class="paragrafo-adm1" style= "padding:20px;">Em nossa segunda apresentação do projeto Gestores do Futuro, escolhemos o tema "Inclusão no mercado de trabalho ", a inclusão é de suma importância, pois contribui muito com a tolerância e com novas ideias e pontos de vista.
   Transmitimos um vídeo explicativo para uma maior fixação do tema, e para complementar, utilizamos uma forma de dinâmica, chamada "O Monstrinho", com o intuito de demonstrar que independente das particularidades, somos todos iguais.</p>
   <br><br><br>
-  <img src="./img/foto-adm.jpeg" style="width:600px; height:300px;" alt="">        
+  <img src="./imagens/foto-adm.jpeg" style="width:600px; height:300px;" alt=""> <br> <br> <br>   
+</div> <h1 class="titulo-adm" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Como Melhorar A Gestão Do Seu Tempo?</h1> 
+<p class="paragrafo-adm" style= "padding:20px;"> Em nossa apresentação dos Gestores do Futuro no dia 21.09 trouxemos para discussão e conhecimento de todos sobre como melhorar a gestão do seu tempo. A gestão do tempo é a prática de gerir o seu trabalho de modo a garantir que seu tempo está sendo usado da maneira mais consiente possível. Dentro do seu ambiente corporativo, essa prática trás diversos benefícios, e como consquência, temos o aumento da sua produtividade. <br> <br> <br>
+<img src="./imagens/adm1.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./imagens/adm2.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./imagens/adm4.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./imagens/adm5.jpeg" style= "padding:20px;"> 
 </div>
-    </div>
 </body>
 <script>
     const mobileScreen = window.matchMedia("(max-width: 990px )");
