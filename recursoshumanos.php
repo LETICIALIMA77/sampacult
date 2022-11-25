@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./img/cult.jpeg" class="brand-logo">
-                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./imagens/cult.jpeg" class="brand-logo">
+                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -48,7 +48,7 @@
                     <i class="bi bi-bank"></i>
                     PÁGINA INICIAL
                 </a>
-                <a href="./tecinformacao.php" class="dashboard-nav-item " style="color:black">
+                <a href="#" class="dashboard-nav-item " style="color:black">
                 <!-- <i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i> -->
                 <i class="bi bi-pc-display-horizontal"></i>
                 TEC INFORMAÇÃO
@@ -73,7 +73,7 @@
                 <i class="bi bi-stars"></i>
                     EVENTOS
                 </a>
-                    <a href="./sobre.php" class="dashboard-nav-item " style="color:black">
+                    <a href="#" class="dashboard-nav-item " style="color:black">
                     <!-- <i class="fa-solid fa-triangle-exclamation fa-fade"></i> -->
                     <i class="bi bi-journals"></i>   
                     SOBRE
@@ -92,23 +92,23 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="nav navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="./index.php">Página Inicial</a>
+                            <a class="nav-link " href="#">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./tecinformacao.php">Tec Informação</a>
+                            <a class="nav-link" href="">Tec Informação</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./marketing.php">Marketing</a>
+                            <a class="nav-link" href="">Marketing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./rccursoshumanos.php">Rec Humanos</a>
+                            <a class="nav-link" href="">Rec Humanos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./administracao.php">Admin</a>
+                            <a class="nav-link" href="">Admin</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./eventos.php">Eventos</a>
+                            <a class="nav-link" href="">Eventos</a>
                         </li>
                     </ul>
                 </div>
@@ -117,25 +117,25 @@
         <div class="container">
          
             <h1 class="titulo-rh1" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Assédio Moral</h1>
-            <p class="paragrafo-rh1">O assédio moral é quando uma que tem um cargo maior dentro de uma empresa tem algum ato que viola a dignidade de um funcionário, causando algum tipo danos psicológicos ou envergonhando a vítima. 
+            <p class="paragrafo-rh1" style= "padding:20px;">O assédio moral é quando uma que tem um cargo maior dentro de uma empresa tem algum ato que viola a dignidade de um funcionário, causando algum tipo danos psicológicos ou envergonhando a vítima. 
 Portanto, isso não acontece somente de chefes para funcionários, também temos o assédio moral dos próprios funcionários zombar ou fazer algum tipo de brincadeira com os seus colegas de trabalhos.
 <br><br>
 Caso você ou alguém que você conheça já passou por uma situação igual, onde os seus colegas ou chefes já praticaram esse tipo de assédio, procure por 
 pessoas de confiança ou algum órgão competente para te ajudar a reportar esse problema e para obter uma ajuda psicológica pois é necessário.
 </p>
 <br><br><br>
-<img src="./img/foto-rh3.jpeg" style="width:600px; height:300px" alt="">
+<img src="./imagens/foto-rh3.jpeg" style="width:600px; height:300px" alt="">
 <br><br>
 
             <h1 class="titulo-rh" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Leis Trabalhistas</h1>
-            <p class="paragrafo-rh">A Consolidação das Leis do Trabalho (CLT) é o marco legal que estabelece as normas regulatórias para as relações individuais e coletivas de trabalho no Brasil. Ela foi aprovada pelo decreto-lei N.º 5.452 em 1943 e, desde então, passou por atualizações e reformas.
+            <p class="paragrafo-rh" style= "padding:20px;">A Consolidação das Leis do Trabalho (CLT) é o marco legal que estabelece as normas regulatórias para as relações individuais e coletivas de trabalho no Brasil. Ela foi aprovada pelo decreto-lei N.º 5.452 em 1943 e, desde então, passou por atualizações e reformas.
                 <br><br>
                 Como principal legislação da área trabalhista, ela tem um escopo bastante extenso. Define juridicamente o conceito de empregador e empregado, orienta a emissão, a entrega e o uso da carteira de trabalho, assim como as reclamações em caso de inadequações.
 Também determina as jornadas de trabalho e os períodos de descanso, traz regras gerais para o salário mínimo, para as férias individuais e coletivas. Define o trabalho noturno e as atividades perigosas e insalubres. Estabelece regramentos para os contratos individuais de trabalho e aponta especificações para alguns profissionais, como químicos, jornalistas, estivadores. Ainda prevê medidas ligadas à medicina e à segurança do trabalho.
             </p>
-        <img src="./img/foto-rh1.jpeg" style="width:600px; height:300px;" alt="">
+        <img src="./imagens/foto-rh1.jpeg" style="width:600px; height:300px;" alt="">
         <br><br><br>
-        <img src="./img/foto-rh2.jpeg" style="width:600px; height:300px;" alt="">
+        <img src="./imagens/foto-rh2.jpeg" style="width:600px; height:300px;" alt="">
         </div>
     </div>
 
