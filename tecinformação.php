@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./img/cult.jpeg" class="brand-logo">
-                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./imagens/cult.jpeg" class="brand-logo">
+                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -92,30 +92,74 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="nav navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="./index.php">Página Inicial</a>
+                            <a class="nav-link " href="#">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./tecinformação.php">Tec Informação</a>
+                            <a class="nav-link" href="">Tec Informação</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./marketing.php">Marketing</a>
+                            <a class="nav-link" href="">Marketing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./recursoshumanos.php">Rec Humanos</a>
+                            <a class="nav-link" href="">Rec Humanos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./administracao.php">Admin</a>
+                            <a class="nav-link" href="">Admin</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./eventos.php">Eventos</a>
+                            <a class="nav-link" href="">Eventos</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-    </div>
-
+    <div class="container"></div>
+<h4 class="titulo-tecinformação1"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Ataques Cibernéticos</h4>
+<p class="paragrafo-tecinformação1" style= "padding:20px;">
+Os ataques cibernéticos nunca descansam, mas conosco, você pode ter a tranquilidade de saber que seus dados e ativos de TI estarão seguros, protegidos e disponíveis. Nada nos impede de ajudar a conter ameaças cibernéticas com infraestrutura e dispositivos intrinsecamente seguros, sistemas abrangentes de detecção e resposta a ameaças, proteção de dados e recuperação cibernética. <br>
+A cada 11 segundos, há um ataque cibernético ou de ransomware bem-sucedido
+US$ 6 trilhões é o valor total do impacto global estimado dos crimes cibernéticos em 2021. 
+Mais de 60% das empresas sofreram um comprometimento de dados devido à exploração de uma vulnerabilidade. <br> <br>
+<strong>Porque a segurança cibernética e importante?</strong> <br>
+A segurança cibernética é importante porque protege você ou sua empresa de possíveis ameaças cibernéticas. O avanço da tecnologia deixou muitas pessoas vulneráveis a atividades cibercriminosas, como hackers, roubo e danos de dados e espionagem industrial.
+<br> <br>
+<strong> O que é antivírus ? </strong> <br>
+São aplicativos que detectam programas maliciosos, capazes de removê-los ou colocá-los em quarentena. Normalmente agem de forma preventiva, detectando ameaças antes mesmo que elas sejam instaladas e comecem a agir, mas também são capazes de remediar os problemas após a infecção.
+<br> <br>
+<img src="./imagens/TI-1.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./imagens/TI-2.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<h4 class="titulo-tecinformação2"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">GuiaInvest</h4>
+<p class="paragrafo-tecinformação2" style= "padding:20px;">
+<strong> O que é? </strong> <br> 
+Oferecem inteligência artificial humanizada para você tomar as melhores decisões de investimentos. <br> <br>
+<strong> Dicas </strong>
+Na GuiaInvest, tanto em seu canal do YouTube, como também em lives e aulas já disponibilizadas, temos uma percepção super abrangente quando o assunto é economia, surgindo a partir de um problema global rapidamente se tornou uma solução para muitos brasileiros, caminhando com a tecnologia, seus fundamentos de criação tiveram como base a inteligência artificial. 
+<br> <br> <strong> Educação Financeira </strong> <br>
+Educação financeira é a base para que a pessoa consiga ter uma vida equilibrada financeiramente e assim conquistar seus objetivos. <br>
+O principal objetivo de uma educação financeira consistente é tornar o individuo consciente para todas as decisões que envolvam dinheiro. Logo, ela consegue fazer com que a pessoa esteja totalmente ciente das oportunidades e dos riscos envolvidos nas estolhas que pode fazer. <br> <br>
+<strong> 8 benefícios de investir em uma educação financeira </strong> <br>
+1. Ter mais qualidade de vida; <br>
+2. Melhorar a qualidade do seu consumo; <br>
+3. Aprender sobre o valor do dinheiro; <br>
+4. Planejar melhor o seu futuro; <br>
+5. Poder investir nos seus sonhos; <br>
+6. Garantir uma reserva financeira; <br>
+7. Fazer seu dinheiro render; <br>
+8. Abrir o seu próprio negócio. <br> <br>
+<img src="./imagens/TI-3.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./imagens/TI-4.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./imagens/TI-5.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<h4 class="titulo-tecinformação3"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Cultura Tecnológica</h4>
+<p class="paragrafo-tecinformação3" style= "padding:20px;">
+<strong> O que é? </strong> <br>
+O conceito de cultura tecnológica como um conjunto complexo de valores, comportamentos, linguagens, hábitos e relações sociais característicos da sociedade tecnológica atual, delineada a partir das mais recentes inovações nos meios de comunicação e informação. <br> <br>
+<strong> A sua importância </strong> <br>
+A importância da cultura tecnológica está relacionada com a possibilidade de o indivíduo agir socialmente, a partir de um saber tecnológico do qual ele se apropria e desenvolve a sua identidade, tornando-se um cidadão tecnologicamente competente. <br> <br>
+<img src="./imagens/TI-6.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./imagens/TI-7.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./imagens/TI-8.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+</div>
 </body>
 <script>
     const mobileScreen = window.matchMedia("(max-width: 990px )");
