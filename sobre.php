@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./img/cult.jpeg" class="brand-logo">
-                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./imagens/cult.jpeg" class="brand-logo">
+                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -92,30 +92,46 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="nav navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="./index.php">Página Inicial</a>
+                            <a class="nav-link " href="#">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./tecinformacao.php">Tec Informação</a>
+                            <a class="nav-link" href="">Tec Informação</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./marketing.php">Marketing</a>
+                            <a class="nav-link" href="">Marketing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./recursoshumanos.php">Rec Humanos</a>
+                            <a class="nav-link" href="">Rec Humanos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./administracao.php">Admin</a>
+                            <a class="nav-link" href="">Admin</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./eventos.php">Eventos</a>
+                            <a class="nav-link" href="">Eventos</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-    </div>
-
+    <div class="container-sobre">
+    <h3 class= "titulo-index" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Sobre Nós</h3>
+<p class="paragrafo-eventos"style= "padding:20px;">  
+<strong>Missão</strong> <br> <br>
+Temos como missão divulgar programas culturais e artísticos de forma a viabilizar o
+acesso à todos os públicos, incentivando o desenvolvimento da diversidade cultural.
+<br> <br>
+<strong>Visão</strong> <br> <br>
+Temos como missão divulgar programas culturais e artísticos de forma a viabilizar o
+acesso à todos os públicos, incentivando o desenvolvimento da diversidade cultural.
+<br> <br>
+<strong>Valores</strong> <br> <br>
+Caminhando com nossos princípios e segmentos respeitados, temos
+como marca da nossa empresa a integridade, inclusão, responsabilidade e confiabilidade para com
+nossos clientes e colaboradores para que se mantenha a qualidade da
+empresa como um todo e mantendo em foco a cultura.
+<br> <br>
+</div>
 </body>
 <script>
     const mobileScreen = window.matchMedia("(max-width: 990px )");
