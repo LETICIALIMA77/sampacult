@@ -117,15 +117,18 @@
     <div class="container-sobre">
     <h3 class= "titulo-index" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Sobre Nós</h3>
 <p class="paragrafo-eventos"style= "padding:20px;">  
-<strong>Missão</strong> <br> <br>
+<h4 class="titulo-index-2" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Missão</h4>
+<p class="paragrafo-index-2" style= "padding:20px;">
 Temos como missão divulgar programas culturais e artísticos de forma a viabilizar o
 acesso à todos os públicos, incentivando o desenvolvimento da diversidade cultural.
-<br> <br>
-<strong>Visão</strong> <br> <br>
+</p>
+<h4 class="titulo-index-3" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Vissão</h4>
+<p class="paragrafo-index-3" style= "padding:20px;">
 Temos como missão divulgar programas culturais e artísticos de forma a viabilizar o
 acesso à todos os públicos, incentivando o desenvolvimento da diversidade cultural.
-<br> <br>
-<strong>Valores</strong> <br> <br>
+</p>
+<h4 class="titulo-index-4" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Valores</h4>
+<p class="paragrafo-index-4" style= "padding:20px;">
 Caminhando com nossos princípios e segmentos respeitados, temos
 como marca da nossa empresa a integridade, inclusão, responsabilidade e confiabilidade para com
 nossos clientes e colaboradores para que se mantenha a qualidade da
