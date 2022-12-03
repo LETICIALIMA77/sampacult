@@ -49,7 +49,7 @@
                     <i class="bi bi-bank"></i>
                     PÁGINA INICIAL
                 </a>
-                <a href="#" class="dashboard-nav-item " style="color:black">
+                <a href="./tecinformação.php" class="dashboard-nav-item " style="color:black">
                 <!-- <i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i> -->
                 <i class="bi bi-pc-display-horizontal"></i>
                 TEC INFORMAÇÃO
@@ -74,7 +74,7 @@
                 <i class="bi bi-stars"></i>
                     EVENTOS
                 </a>
-                    <a href="#" class="dashboard-nav-item " style="color:black">
+                    <a href="./sobre.php" class="dashboard-nav-item " style="color:black">
                     <!-- <i class="fa-solid fa-triangle-exclamation fa-fade"></i> -->
                     <i class="bi bi-journals"></i>   
                     SOBRE
