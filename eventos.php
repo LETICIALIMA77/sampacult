@@ -48,7 +48,7 @@
                     <i class="bi bi-bank"></i>
                     PÁGINA INICIAL
                 </a>
-                <a href="#" class="dashboard-nav-item " style="color:black">
+                <a href="./tecinformação.php" class="dashboard-nav-item " style="color:black">
                 <!-- <i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i> -->
                 <i class="bi bi-pc-display-horizontal"></i>
                 TEC INFORMAÇÃO
@@ -73,7 +73,7 @@
                 <i class="bi bi-stars"></i>
                     EVENTOS
                 </a>
-                    <a href="#" class="dashboard-nav-item " style="color:black">
+                    <a href="./sobre.php" class="dashboard-nav-item " style="color:black">
                     <!-- <i class="fa-solid fa-triangle-exclamation fa-fade"></i> -->
                     <i class="bi bi-journals"></i>   
                     SOBRE
@@ -177,52 +177,27 @@ Fora reforça a importância do reconhecimento de tais atividades culturais como
 <br><br>
 <img src="./imagens/eventos6.png" style="width:600px; height:300px;" alt="">
 <br><br>
-<img src="./imagens/eventos7.png" style="width:600px; height:300px;" alt="">
-<h4 class="titulo-eventos11" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;padding:20px;">Educação Financeira
-<br><br>Canal Me Poupe!
-</h4>
-
-<h4 class="titulo-eventos12" style="font-size:larger; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Quem é Nathalia Arcuri?</h4>
-<p class="paragrafo-eventos12"style= "padding:20px;">Nathalia Arcuri é especialista em finanças, jornalista, apresentadora e criadora do Canal Me Poupe!, o maior canal de finanças do mundo.
-Ela ensina sobre educação financeira, com um toque de humor e entretenimento. Desse jeito a youtuber está presente em diversas plataformas compartilhando conteúdos sobre investimentos, principalmente, em renda fixa.
-</p>
-<h4 class="titulo-eventos13" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">3 Dicas Para Sobrar Dinheiro no Final do Mês </h4>
-<p class="paragrafo-eventos13" style= "padding:20px;">
-    <strong>1ª Dica: Anote seus gastos</strong>
-<br><br>
-É muito importante saber o quanto você ganha e saber no detalhe os seus custos, desde aqueles necessários e fixos como por exemplo, aluguel, conta de luz, água, etc, e até aqueles pequenos, como as compras que fazemos aqui e ali, o gasto do supermercado, os deslocamentos para irmos em determinado lugar, etc.
-Anote tudo em um caderno para não se perder e ficar sem dinheiro para pagar as suas contas.
-<br><br><strong>2ª Dica: Use dinheiro em espécie</strong><br><br>
-Uma boa maneira de controlar mais os gastos é deixar os cartões de lado e adotar o dinheiro em espécie; isso porque, com o dinheiro na mão, fica muito mais claro o que está saindo do seu bolso.
-E tem mais uma vantagem: pagando em dinheiro as chances de conseguir descontos são MUITO maiores. E sabe por quê?
-Existe uma lei que autoriza que lojas apliquem descontos dependendo do meio de pagamento usado na compra (se quiser conferir, a lei é essa aqui: nº 13.455).
-<br><br> <strong>3ª Dica: Cuidado Com o Golpe</strong><br><br>
-Não clique em links suspeitos, não acredite em promoções bombásticas, nem em promessas de ganhos fáceis. Tem muito golpista por aí querendo tirar o seu dinheiro, então fique alerta! 
-Uma dica é sempre acessar o site pela página oficial – não clique no link que recebeu, digite diretamente o nome da loja no seu navegador e acesse o site oficial para validar.
-</p>
-<img src="./imagens/foto-eventos6.png" style="width:600px; height:300px;" alt="">
-<br><br><br>
-<img src="./imagens/foto-eventos7.png" style="width:600px; height:300px;" alt="">
-<br><br><br><br><br>
-<img src="./imagens/foto-eventos8.png" style="width:600px; height:300px;" alt=""> 
+<img src="./imagens/eventos7.png" style="width:600px; height:300px;" alt=""> 
 <h4 class="titulo-eventos14"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Setembro Amarelo</h4>
 <p class="paragrafo-eventos14" style= "padding:20px;"> 
 Setembro Amarelo é a campanha de prevenção ao suicídio da ABP (Associação Brasileira de Psiquiatria).
-Sendo dia 10 o Dia Mundial de Prevenção ao Suicídio. <br> <br>
-
-<strong>Como Surgiu?</strong> <br> <br>
-
-O Setembro Amarelo começou nos EUA, quando o jovem Mike Emme, de 17 anos, cometeu suicídio, em 1994. Mike era um rapaz muito habilidoso e restaurou um automóvel Mustang 68, pintando-o de amarelo. Por conta disso, ficou conhecido como "Mustang Mike". <br> <br>
-
-<strong>CVV</strong> <br> <br>
+Sendo dia 10 o Dia Mundial de Prevenção ao Suicídio. 
+</p>
+<h4 class="titulo-eventos15" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Como surgiu?</h4>
+<p class="paragrafo-eventos15">
+    O Setembro Amarelo começou nos EUA, quando o jovem Mike Emme, de 17 anos, cometeu suicídio, em 1994. Mike era um rapaz muito habilidoso e restaurou um automóvel Mustang 68, pintando-o de amarelo. Por conta disso, ficou conhecido como "Mustang Mike". <br> <br>
+</p>
+<h4 class="titulo-eventos16" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">CVV</h4>
+<p class="paragrafo-eventos16" style= "padding:20px;">
 
 O CVV – Centro de Valorização da Vida realiza apoio emocional e prevenção do suicídio, atendendo voluntária e gratuitamente todas as pessoas que querem e precisam conversar, sob total sigilo por telefone, email e chat 24 horas todos os dias. <br> <br>
+</p>
+<h4 class="titulo-eventos17" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Contato CVV</h4>
+<p class="paragrafo-eventos17" style= "padding:20px;">
 
-<strong>Contato CVV</strong> <br> <br>
-
-Telefone: 188 <br>
-Chat: https://www.cvv.org.br/chat/ <br>
-Polo Físico: Jabaquara - São Paulo <br>
+<strong>Telefone:</strong> 188 <br>
+<strong>Chat:</strong> https://www.cvv.org.br/chat/ <br>
+<strong>Polo Físico:</strong> Jabaquara - São Paulo <br>
 Av: Jabaquara, 2607 
 Horário: 24 horas</p> <br> <br> <br>
 <img src="./imagens/sa1.jpeg" style="width:600px; height:300px;" alt=""> <br> <br> <br>
@@ -232,17 +207,24 @@ Horário: 24 horas</p> <br> <br> <br>
 <h4 class="titulo-eventos14"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Outubro Rosa</h4>
 <p class="paragrafo-eventos14" style= "padding:20px;">
 
-É uma campanha com o objetivo de compartilhar informações e promover a consciencialização sobre o câncer de mama, proporcionando maior acesso aos serviços de diagnóstico e de tratamento e contribuir para a redução da mortalidade. <br> <br>
-<strong>Como Surgiu?</strong> <br> <br>
+É uma campanha com o objetivo de compartilhar informações e promover a consciencialização sobre o câncer de mama, proporcionando maior acesso aos serviços de diagnóstico e de tratamento e contribuir para a redução da mortalidade.
+</p>
+<h4 class="titulo-eventos18" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Como Surgiu?</h4>
+<p class="paragrafo-eventos18" style= "padding:20px;">
 O Outubro Rosa apareceu pela primeira vez nos Estados Unidos, quando vários estados se uniram para realizar ações sobre o câncer de mama. <br>
 O laço rosa, símbolo usado na campanha, foi uma iniciativa da Fundação Susan G. Komen for the Cure, que distribuiu o item aos participantes da Corrida pela Cura, em Nova York, na década de 1990. <br>
 Posteriormente, hospitais começaram a aderir aos programas de divulgação sobre a doença, distribuindo os laços pela cidade. <br> <br>
-<strong> Sintomas do Câncer Mama </strong> <br> <br>
+</p>
+<h4 class="titulo-eventos19" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Sintomas do Câncer de Mama</h4>
+<p class="paragrafo-eventos19" style= "padding:20px;">
 •	A presença de caroços na região da mama; <br>
 •	Secreções no mamilo; <br>
 •	Pele enrugada e enrijecida;<br>
-•	Vermelhidão, feridas e coceiras.<br> <br>
-<strong> Auto Cuidado </strong> <br> <br>
+•	Vermelhidão, feridas e coceiras.
+</p>
+<h4 class="titulo-eventos20" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Auto Cuidado</h4>
+<p class="paragrafo-eventos20" style= "padding:20px;">
+</p>
 <img src="./imagens/5.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
 <img src="./imagens/2.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
 <img src="./imagens/3.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
