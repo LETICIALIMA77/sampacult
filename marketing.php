@@ -39,8 +39,8 @@
 
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./imagens/cult.jpeg" class="brand-logo">
-                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./img/cult.jpeg" class="brand-logo">
+                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -49,7 +49,7 @@
                     <i class="bi bi-bank"></i>
                     PÁGINA INICIAL
                 </a>
-                <a href="#" class="dashboard-nav-item " style="color:black">
+                <a href="./tecinformação.php" class="dashboard-nav-item " style="color:black">
                 <!-- <i class="fa-solid fa-cog fa-spin" style="--fa-animation-duration: 15s;"></i> -->
                 <i class="bi bi-pc-display-horizontal"></i>
                 TEC INFORMAÇÃO
@@ -74,7 +74,7 @@
                 <i class="bi bi-stars"></i>
                     EVENTOS
                 </a>
-                    <a href="#" class="dashboard-nav-item " style="color:black">
+                    <a href="./sobre.php" class="dashboard-nav-item " style="color:black">
                     <!-- <i class="fa-solid fa-triangle-exclamation fa-fade"></i> -->
                     <i class="bi bi-journals"></i>   
                     SOBRE
@@ -126,20 +126,24 @@
              e o departamento disponibilizou um formulário para a realização
              da votação do logo.
                 </p>
-   <img src="./imagens/mkt-foto.jpeg" style="width:500px; height:300px;" alt="">
+   <img src="./img/mkt-foto.jpeg" style="width:500px; height:300px;" alt="">
    <br><br><br>
-   <img src="./imagens/mkt-foto2.jpeg" style="width:500px; height:300px;" alt="">
+   <img src="./img/mkt-foto2.jpeg" style="width:500px; height:300px;" alt="">
    <h4 class="titulo-mkt2" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;padding:20px;">Marketing Pessoal </h3>
    <p class="paragrafo-mkt2" style= "padding:20px;">
    
-<strong>O Que É Marketing?</strong> <br> <br> 
+   <h4 class="titulo-mkt3" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">O Que É Marketing?
+</h4>
+<p class="paragrafo-mkt3" style= "padding:20px;">
 
-A ciência e a arte de explorar, criar, comunicar e entregar valor para satisfazer as necessidades de um público-alvo, parceiros e sociedade como um todo. <br> <br>
-
-<strong>PARA O QUE SERVE?</strong> <br> <br>
-O marketing tem como objetivos aumentar vendas, fidelizar clientes, aumentar a visibilidade de uma marca ou produto, gerenciar uma marca (branding), construir boas relações e educar o mercado. <br> <br>
-
-<strong>FERRAMENTAS DO MARKETING</strong> <br> <br>
+A ciência e a arte de explorar, criar, comunicar e entregar valor para satisfazer as necessidades de um público-alvo, parceiros e sociedade como um todo. 
+</p>
+<h4 class="titulo-mkt4" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Para Que Serve?</h4>
+<p class="paragrafo-mkt4" style= "padding:20px;">
+O marketing tem como objetivos aumentar vendas, fidelizar clientes, aumentar a visibilidade de uma marca ou produto, gerenciar uma marca (branding), construir boas relações e educar o mercado. 
+</p>
+<h4 class="titulo-mkt5" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Ferramentas do Marketing?</h4>
+<p class="paragrafo-mkt5" style= "padding:20px;">
 
 <strong>PREÇO:</strong> 
 É o preço do produto/serviço da empresa.<br>
@@ -148,8 +152,10 @@ Onde o produto/serviço será distribuído.<br>
 <strong>PROMOÇÃO:</strong>
 Como o produto/serviço será distribuído (divulgação, propaganda, etc.)<br>
 <strong>PRODUTO:</strong> 
-O produto/serviço em si, que está associado com a marca.<br> <br>
-<strong>SWOT</strong> <br> <br>
+O produto/serviço em si, que está associado com a marca.
+</p>
+<h4 class="titulo-mkt6" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Swot</h4>
+<p class="paragrafo-mkt6" style= "padding:20px;">
 
 <strong>FORÇAS:</strong>
 As forças da empresa, o que as faz se destacar no mercado. <br>
@@ -158,9 +164,10 @@ Quais oportunidades o mercado, a sociedade, as tendências, oferecem para a empr
 <strong>FRAQUEZAS:</strong>
 As fraquezas da empresa, o que as faz ficar em desvantagem no mercado.<br>
 <strong>AMEAÇAS</strong>
-Quais ameaças o mercado, a sociedade, as tendências, oferecem para a empresa.<br><br>
-
-<strong>MARKETING PESSOAL</strong> <br>
+Quais ameaças o mercado, a sociedade, as tendências, oferecem para a empresa.
+</p>
+<h4 class="titulo-mkt7" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Marketing Pessoal</h4>
+<p class="paragrafo-mkt7" style= "padding:20px;">
 
 Como aplicar esses conceitos para si mesmo? <br><br>
 
@@ -171,37 +178,42 @@ Marketing pessoal é uma ferramenta para destacar-se profissionalmente comunican
 <strong>COMO POR EM PRÁTICA?</strong><br>
 1. Analisar suas características;<br>
 2. Comunicar seus diferenciais.</p> <br> <br> <br>
-<img src="./imagens/mkt-1.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/mkt-2.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/mkt-3.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/mkt-4.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt1.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt2.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt3.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt4.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
 <h4 class="titulo-mkt3" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;padding:20px;">Casos de Sucesso </h3> 
 <p class="paragrafo-mkt2" style= "padding:20px;">
-O que há por trás de grandes empresas e suas histórias? Vamos conhecer algumas delas e como elas podem agregar na nossa vida profissional. <br><br>
+O que há por trás de grandes empresas e suas histórias? Vamos conhecer algumas delas e como elas podem agregar na nossa vida profissional.
 
-<strong>1° caso: AIRBNB</strong> <br><br>
+<h4 class="titulo-mkt8" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">1°: Caso AIRBNB</h4>
+<p class="paragrafo-mkt8" style= "padding:20px;">
 Em 2007, dois amigos encontraram uma oportunidade deganhar uma renda extra alugando um cômodo da casa onde moravam para três hóspedes que fariam uma conferência na cidade de São Francisco.
 Percebendo que podiam baratear a estadia por temporada, nasce daí a ideia base para o Airbnb, que hoje é uma das maiores start-ups de sucesso do mundo atualmente como maior plataforma de mais de 800.000 cômodos para aluguel hospedagem.<br> <br>
-
-<strong>2° caso: CACAU SHOW</strong> <br><br>
+</P>
+<h4 class="titulo-mkt9" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">2° Caso: Cacau Show</h4>
+<p class="paragrafo-mkt9" style= "padding:20px;">
 
 Alexandre Costa é fundador e CEO de uma das maiores redes de chocolates finos do mundo, a Cacau Show.
-A empresa que Alexandre começou aos 17 anos, possui um faturamento anual na casa dos bilhões.<br><br>
-
-<strong>3° caso: IFOOD</strong> <br><br> 
+A empresa que Alexandre começou aos 17 anos, possui um faturamento anual na casa dos bilhões.
+</p>
+<h4 class="titulo-mkt10" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">3° Caso: IFOOD</h4>
+<p class="paragrafo-mkt10" style= "padding:20px;">
 
 A história do Ifood começou em 2011 fora das redes sociais, através de um guia impresso de cardápios, onde a compania recebia pedidos através de uma central eletrônica.
 A partir disto, os sócios Patrick Sigrist, Eduardo Bear, Guilherme Bonifácio e Felipe Fioravante para a foodtech que existe atualmente.
-Em 2011 foram lançados o site e os aplicativos para dispositivos móveis, já em 2021 eles obtiveram 1,5 milhões de downloads por mês.<br><br>
-
-<strong>O que aprendemos com essas histórias?</strong><br><br>
+Em 2011 foram lançados o site e os aplicativos para dispositivos móveis, já em 2021 eles obtiveram 1,5 milhões de downloads por mês.
+</p>
+<h4 class="titulo-mkt11" style="font-size:large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">O que aprendemos com essas histórias?</h4>
+<p class="paragrafo-mkt11" style= "padding:20px;">
 
 Essas ideias simples, porém inovadoras, quando bem investidas, podem se tornar grandes e revolucionárias.<br>
 Quando encontramos soluções simples para os problemas do dia a dia e que são potencialmente empreendedoras, devemos apurar nosso olhar para perceber as oportunidades que elas podem trazer.</p>
-<img src="./imagens/foto-mkt1.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/foto-mkt2.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/foto-mkt3.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/foto-mkt4.png" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt-1.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt-2.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt-3.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/mkt-4.jpeg" style="width:500px; height:300px;" alt=""> <br> <br> <br>
+</p>
 </div>
     </div>
  
