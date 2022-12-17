@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./imagens/cult.jpeg" class="brand-logo">
-                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./img/cult.jpeg" class="brand-logo">
+                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -124,7 +124,7 @@ Caso você ou alguém que você conheça já passou por uma situação igual, on
 pessoas de confiança ou algum órgão competente para te ajudar a reportar esse problema e para obter uma ajuda psicológica pois é necessário.
 </p>
 <br><br><br>
-<img src="./imagens/foto-rh3.jpeg" style="width:600px; height:300px" alt="">
+<img src="./img/foto-rh3.jpeg" style="width:600px; height:300px" alt="">
 <br><br>
 
             <h1 class="titulo-rh" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Leis Trabalhistas</h1>
@@ -133,9 +133,9 @@ pessoas de confiança ou algum órgão competente para te ajudar a reportar esse
                 Como principal legislação da área trabalhista, ela tem um escopo bastante extenso. Define juridicamente o conceito de empregador e empregado, orienta a emissão, a entrega e o uso da carteira de trabalho, assim como as reclamações em caso de inadequações.
 Também determina as jornadas de trabalho e os períodos de descanso, traz regras gerais para o salário mínimo, para as férias individuais e coletivas. Define o trabalho noturno e as atividades perigosas e insalubres. Estabelece regramentos para os contratos individuais de trabalho e aponta especificações para alguns profissionais, como químicos, jornalistas, estivadores. Ainda prevê medidas ligadas à medicina e à segurança do trabalho.
             </p>
-        <img src="./imagens/foto-rh1.jpeg" style="width:600px; height:300px;" alt="">
+        <img src="./img/foto-rh1.jpeg" style="width:600px; height:300px;" alt="">
         <br><br><br>
-        <img src="./imagens/foto-rh2.jpeg" style="width:600px; height:300px;" alt="">
+        <img src="./img/foto-rh2.jpeg" style="width:600px; height:300px;" alt="">
         </div>
     </div>
 
