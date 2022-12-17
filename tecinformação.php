@@ -38,8 +38,8 @@
     <div class="dashboard-nav">
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./imagens/cult.jpeg" class="brand-logo">
-                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./img/cult.jpeg" class="brand-logo">
+                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -127,8 +127,8 @@ A segurança cibernética é importante porque protege você ou sua empresa de
 <strong> O que é antivírus ? </strong> <br>
 São aplicativos que detectam programas maliciosos, capazes de removê-los ou colocá-los em quarentena. Normalmente agem de forma preventiva, detectando ameaças antes mesmo que elas sejam instaladas e comecem a agir, mas também são capazes de remediar os problemas após a infecção.
 <br> <br>
-<img src="./imagens/TI-1.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/TI-2.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-1.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-2.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
 <h4 class="titulo-tecinformação2"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">GuiaInvest</h4>
 <p class="paragrafo-tecinformação2" style= "padding:20px;">
 <strong> O que é? </strong> <br> 
@@ -147,18 +147,18 @@ O principal objetivo de uma educação financeira consistente é tornar o indivi
 6. Garantir uma reserva financeira; <br>
 7. Fazer seu dinheiro render; <br>
 8. Abrir o seu próprio negócio. <br> <br>
-<img src="./imagens/TI-3.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/TI-4.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/TI-5.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-3.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-4.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-5.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
 <h4 class="titulo-tecinformação3"style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Cultura Tecnológica</h4>
 <p class="paragrafo-tecinformação3" style= "padding:20px;">
 <strong> O que é? </strong> <br>
 O conceito de cultura tecnológica como um conjunto complexo de valores, comportamentos, linguagens, hábitos e relações sociais característicos da sociedade tecnológica atual, delineada a partir das mais recentes inovações nos meios de comunicação e informação. <br> <br>
 <strong> A sua importância </strong> <br>
 A importância da cultura tecnológica está relacionada com a possibilidade de o indivíduo agir socialmente, a partir de um saber tecnológico do qual ele se apropria e desenvolve a sua identidade, tornando-se um cidadão tecnologicamente competente. <br> <br>
-<img src="./imagens/TI-6.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/TI-7.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
-<img src="./imagens/TI-8.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-6.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-7.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
+<img src="./img/TI-8.png" style="width:600px; height:300px;" alt=""> <br> <br> <br>
 </div>
 </body>
 <script>
