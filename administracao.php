@@ -39,8 +39,8 @@
 
         <nav class="dashboard-nav-list active">
             <header style="background-color:#fbf4dc">
-                <a href="./imagens/cult.jpeg" class="brand-logo">
-                    <img src="./imagens/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
+                <a href="./img/cult.jpeg" class="brand-logo">
+                    <img src="./img/cult.jpeg" style="width:200px; height:130px; padding:05px" alt="">
                 </a>
             </header>
             <li class="active" style="background-color:#fbf4dc">
@@ -124,13 +124,13 @@
 <p class="paragrafo-adm1" style= "padding:20px;">Em nossa segunda apresentação do projeto Gestores do Futuro, escolhemos o tema "Inclusão no mercado de trabalho ", a inclusão é de suma importância, pois contribui muito com a tolerância e com novas ideias e pontos de vista.
   Transmitimos um vídeo explicativo para uma maior fixação do tema, e para complementar, utilizamos uma forma de dinâmica, chamada "O Monstrinho", com o intuito de demonstrar que independente das particularidades, somos todos iguais.</p>
   <br><br><br>
-  <img src="./imagens/foto-adm.jpeg" style="width:600px; height:300px;" alt=""> <br> <br> <br>   
+  <img src="./img/foto-adm.jpeg" style="width:600px; height:300px;" alt=""> <br> <br> <br>   
 </div> <h1 class="titulo-adm" style="font-size:xx-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding:20px;">Como Melhorar A Gestão Do Seu Tempo?</h1> 
 <p class="paragrafo-adm" style= "padding:20px;"> Em nossa apresentação dos Gestores do Futuro no dia 21.09 trouxemos para discussão e conhecimento de todos sobre como melhorar a gestão do seu tempo. A gestão do tempo é a prática de gerir o seu trabalho de modo a garantir que seu tempo está sendo usado da maneira mais consiente possível. Dentro do seu ambiente corporativo, essa prática trás diversos benefícios, e como consquência, temos o aumento da sua produtividade. <br> <br> <br>
-<img src="./imagens/adm1.jpeg" style= "padding:20px;"> <br> <br> <br>
-<img src="./imagens/adm2.jpeg" style= "padding:20px;"> <br> <br> <br>
-<img src="./imagens/adm4.jpeg" style= "padding:20px;"> <br> <br> <br>
-<img src="./imagens/adm5.jpeg" style= "padding:20px;"> 
+<img src="./img/adm1.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./img/adm2.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./img/adm4.jpeg" style= "padding:20px;"> <br> <br> <br>
+<img src="./img/adm5.jpeg" style= "padding:20px;"> 
 </div>
 </body>
 <script>
